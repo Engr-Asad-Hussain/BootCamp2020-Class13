@@ -12,6 +12,8 @@ Surge: http://billowy-metal123.surge.sh/
 
 
 -----------------------------------------------------------
+# useRef, useLayoutEffect
+-----------------------------------------------------------
 ### useRef()
 - In the world of React we think of refs as being references to actual DOM nodes that react is rendering. These are useful for performing operations that require actual DOM access, like focusing an element or measuring an element.
 - It means that if we use useRef, it bypass the virtual DOM and we can not perform operations directly on DOM.
