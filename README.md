@@ -12,7 +12,7 @@ Surge: http://billowy-metal123.surge.sh/
 
 
 -----------------------------------------------------------
-# useRef, useLayoutEffect
+# 1. useRef, useLayoutEffect
 -----------------------------------------------------------
 ### useRef()
 - In the world of React we think of refs as being references to actual DOM nodes that react is rendering. These are useful for performing operations that require actual DOM access, like focusing an element or measuring an element.
@@ -40,7 +40,7 @@ useEffect(()=>{
 
 
 -----------------------------------------------------------
-# Web Animation API with React
+# 2. Web Animation API with React
 - **[Official Documentation](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)**
 
 - [I have made 6 Animations by following Official Doc.](https://github.com/Engr-Asad-Hussain/BootCamp2020-Class13/tree/Animations-React)
